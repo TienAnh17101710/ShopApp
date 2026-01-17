@@ -1,6 +1,0 @@
-com\shopapp\service\ProductService.class
-com\shopapp\model\Product.class
-com\shopapp\repository\ProductRepository.class
-com\shopapp\ShopAppApplication.class
-com\shopapp\controller\ProductController.class
-com\shopapp\dto\ProductDTO.class
